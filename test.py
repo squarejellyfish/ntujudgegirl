@@ -2,16 +2,15 @@ import os
 import shutil
 
 files = {
-    "236",
-    "21",
-    "22",
-    "128",
-    "218",
-    "50",
-    "37"
+    "23",
+    "206",
+    "72",
+    "190",
+    "129",
+    "100",
 }
 ls = os.listdir()
-targetdir = "25.Function/"
+targetdir = "27.Pointer/"
 os.mkdir(targetdir)
 
 for file in ls:
