@@ -1,0 +1,15 @@
+spinach 1
+dill 1
+kale 2
+pumpkin 3
+scallion 8
+shallot 1
+beet 1
+leek 11
+mint 23
+sausage 3
+ham 1
+spam 12
+chorizo 13
+salami 11
+vallina 18

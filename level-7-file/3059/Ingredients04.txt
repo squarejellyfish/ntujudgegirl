@@ -1,0 +1,10 @@
+egg 10
+rice 5
+egg 4
+beef 12
+radish 5
+potato 11
+bacon 12
+cream 11
+lamb 2
+ice 11

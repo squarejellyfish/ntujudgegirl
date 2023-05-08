@@ -1,0 +1,5 @@
+egg 10
+rice 5
+egg 4
+meat 1
+Avocado 5

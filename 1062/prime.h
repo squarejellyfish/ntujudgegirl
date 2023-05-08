@@ -1,0 +1,2 @@
+
+int IsPrime(int num);

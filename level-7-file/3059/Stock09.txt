@@ -1,0 +1,7 @@
+nutella 3
+marshmallow 6
+potatochips 9
+margarine 12
+peas 13
+beer 1
+gin 1

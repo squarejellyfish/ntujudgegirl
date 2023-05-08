@@ -1,0 +1,16 @@
+Dashi 10
+Chocolate 3
+nutella 5
+marshmallow 30
+potatochips 50
+margarine 20
+peas 10
+beer 30
+brandy 1
+gin 1
+Beer 2
+Nutella 2
+choclate 10
+dashi 10
+beer 5
+pork 10

@@ -1,0 +1,15 @@
+egg 10
+rice 5
+egg 4
+beef 12
+radish 5
+potato 11
+bacon 12
+cream 11
+lamb 2
+ice 11
+coconut 3
+salt 3
+cheese 6
+sausage 10
+toast 3

@@ -1,0 +1,9 @@
+Egg 10
+sugar 1
+rice 5
+egg 4
+meat 1
+rice 5
+sugar 1
+egg 13
+meat 10

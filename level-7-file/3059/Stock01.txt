@@ -1,0 +1,5 @@
+apple 1
+rice 3
+egg 1
+meat 4
+sugar 2

@@ -99,6 +99,7 @@ int method_2()
 
 int main(int argc, char const *argv[])
 {
+    method_1();
 
     return 0;
 }

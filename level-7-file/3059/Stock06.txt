@@ -1,0 +1,16 @@
+avocado 5
+rice 5
+egg 10
+beef 4
+carrot 6
+corn 10
+ginger 8
+celery 9
+pickle 2
+zucchini 1
+cilantro 3
+olive 10
+asparagus 11
+bacon 12
+cream 10
+ice 12

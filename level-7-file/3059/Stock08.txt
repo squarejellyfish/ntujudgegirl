@@ -1,0 +1,15 @@
+saffron 21
+chipotle 3
+cacao 4
+savory 4
+caraway 2
+shrimp 10
+crab 10
+clam 20
+calamari 15
+squid 30
+cockle 4
+lard 4
+miso 4
+wasabi 4
+bouillon 4

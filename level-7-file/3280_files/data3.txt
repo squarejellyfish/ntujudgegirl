@@ -1,0 +1,15 @@
+14 Kakuna
+3 Venusaur
+1 Bulbasaur
+6 Charizard
+9 Blastoise
+12 Butterfree
+7 Squirtle
+13 Weedle
+8 Wartortle
+4 Charmander
+11 Metapod
+5 Charmeleon
+10 Caterpie
+2 Ivysaur
+15 Beedrill

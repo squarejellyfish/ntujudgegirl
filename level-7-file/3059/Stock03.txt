@@ -1,0 +1,8 @@
+avocado 5
+rice 5
+egg 2
+beef 4
+sugar 2
+potato 1
+bacon 11
+tomato 1
