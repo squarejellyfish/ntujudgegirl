@@ -10,14 +10,14 @@ files = {
     "100",
 }
 ls = os.listdir()
-targetdir = "27.Pointer/"
-os.mkdir(targetdir)
+targetdir = "Others/"
+# os.mkdir(targetdir)
 
 for file in ls:
     ext = file.split(".")[-1]
     name = file.split(".")[0]
 
-    if (ext == 'c' or 'py') and name in files:
+    if (ext == 'c' or ext == 'py'):
         print(f"moved {file} to folder.")
 
         os.rename(file, targetdir + file)
