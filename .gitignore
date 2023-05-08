@@ -7,4 +7,6 @@
 # Unignore all dirs
 !*/
 
+.DS_store
 .vscode/*
+*.swp
